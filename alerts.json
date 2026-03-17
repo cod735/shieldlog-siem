@@ -1,0 +1,533 @@
+[
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 04:55:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 9 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 04:55:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 10 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 05:05:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 11 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 05:15:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 12 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 05:17:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 13 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 05:25:02",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 14 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 05:35:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 15 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 05:45:00",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 16 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 05:55:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:03:48",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 17 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:03:48",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 18 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:04:41",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:05:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 19 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:05:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 20 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:07:32",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 21 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:10:33",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:15:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 22 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:15:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:17:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 23 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:17:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:25:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:30:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "ROOT_LOGIN_ATTEMPT",
+    "mitre": "T1078.003",
+    "severity": "HIGH",
+    "detail": "Direct root login attempt from 10.10.10.5 \u2014 root SSH should always be disabled",
+    "timestamp": "2026-03-17 03:00:01",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "ROOT_LOGIN_ATTEMPT",
+    "mitre": "T1078.003",
+    "severity": "HIGH",
+    "detail": "Direct root login attempt from 10.10.10.5 \u2014 root SSH should always be disabled",
+    "timestamp": "2026-03-17 03:00:03",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "ROOT_LOGIN_ATTEMPT",
+    "mitre": "T1078.003",
+    "severity": "HIGH",
+    "detail": "Direct root login attempt from 10.10.10.5 \u2014 root SSH should always be disabled",
+    "timestamp": "2026-03-17 03:00:05",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "ROOT_LOGIN_ATTEMPT",
+    "mitre": "T1078.003",
+    "severity": "HIGH",
+    "detail": "Direct root login attempt from 10.10.10.5 \u2014 root SSH should always be disabled",
+    "timestamp": "2026-03-17 03:00:07",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 10 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:32:23",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "BRUTE_FORCE_SSH",
+    "mitre": "T1110.001",
+    "severity": "HIGH",
+    "detail": "5 failed SSH logins from 10.10.10.5 in 60 seconds",
+    "timestamp": "2026-03-17 03:00:09",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "ROOT_LOGIN_ATTEMPT",
+    "mitre": "T1078.003",
+    "severity": "HIGH",
+    "detail": "Direct root login attempt from 10.10.10.5 \u2014 root SSH should always be disabled",
+    "timestamp": "2026-03-17 03:00:09",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 11 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:32:24",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "OFF_HOURS_LOGIN",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "Successful login by 'admin' at 03:15 from 203.0.113.42 \u2014 outside business hours",
+    "timestamp": "2026-03-17 03:15:00",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 12 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:32:25",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "SUSPICIOUS_SUDO",
+    "mitre": "T1548.003",
+    "severity": "HIGH",
+    "detail": "User 'admin' ran dangerous sudo command: admin : TTY=pts/0 ; COMMAND=/bin/bash",
+    "timestamp": "2026-03-17 03:16:00",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 13 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:32:26",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "NEW_USER_CREATED",
+    "mitre": "T1136.001",
+    "severity": "HIGH",
+    "detail": "New user account 'backdoor' created \u2014 potential backdoor account",
+    "timestamp": "2026-03-17 03:17:00",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 14 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:32:27",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "USER_ADDED_TO_SUDO_GROUP",
+    "mitre": "T1098",
+    "severity": "CRITICAL",
+    "detail": "User added to privileged group \u2014 grants permanent root access: admin : TTY=pts/0 ; COMMAND=/usr/sbin/usermod -aG sudo backdoor",
+    "timestamp": "2026-03-17 03:18:00",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 15 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:32:28",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "INVALID_USER_LOGIN",
+    "mitre": "T1110.001",
+    "severity": "MEDIUM",
+    "detail": "Login attempt for non-existent user 'ghost' from 10.10.10.99 \u2014 username enumeration",
+    "timestamp": "2026-03-17 03:19:00",
+    "host": "abbaskhan-VMware",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:35:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 16 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:35:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 17 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:39:38",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 18 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:40:30",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 19 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:43:07",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:45:02",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 20 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:45:02",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 21 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:46:32",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 07:55:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 22 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 07:55:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 08:05:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 23 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 08:05:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 08:15:02",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 24 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 08:15:02",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 08:17:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 25 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 08:17:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 08:25:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 26 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 08:25:01",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNUSUAL_CRON_ACTIVITY",
+    "mitre": "T1053.003",
+    "severity": "MEDIUM",
+    "detail": "CRON session opened for root at unusual time \u2014 possible scheduled persistence",
+    "timestamp": "2026-03-17 08:30:02",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  },
+  {
+    "rule": "UNCLOSED_SESSIONS",
+    "mitre": "T1078",
+    "severity": "MEDIUM",
+    "detail": "User 'root(uid=0)' has 27 sessions opened with no matching close \u2014 suspicious activity",
+    "timestamp": "2026-03-17 08:30:02",
+    "host": "abbaskhan-VMware-Virtual-Platform",
+    "raw": ""
+  }
+]
